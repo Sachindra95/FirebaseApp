@@ -1,22 +1,22 @@
 {
   "project_info": {
-    "project_number": "139162606913",
-    "firebase_url": "https://fir-demo-app-add97-default-rtdb.firebaseio.com",
-    "project_id": "fir-demo-app-add97",
-    "storage_bucket": "fir-demo-app-add97.appspot.com"
+    "project_number": "981932250292",
+    "firebase_url": "https://coherent-broker-401404-default-rtdb.firebaseio.com",
+    "project_id": "coherent-broker-401404",
+    "storage_bucket": "coherent-broker-401404.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139162606913:android:19589f5bad463023c015c0",
+        "mobilesdk_app_id": "1:981932250292:android:c5c1327c2d1cc207d9f3e1",
         "android_client_info": {
-          "package_name": "com.sachindracode.firebaseApp"
+          "package_name": "com.example.firebaseapp"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCJln-fRpkFQXa_Q5WQ5pkKDhkkIJaHGS8"
+          "current_key": "AIzaSyAx3-Q6SuDaLuybBrhmjin4TeL_iwNL7fs"
         }
       ],
       "services": {
@@ -27,15 +27,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:139162606913:android:5347ca7ca76219ffc015c0",
+        "mobilesdk_app_id": "1:981932250292:android:03179da9ff7b67d4d9f3e1",
         "android_client_info": {
-          "package_name": "com.sachindracode.firebaseapp"
+          "package_name": "com.sachindracode.firebaseApp"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCJln-fRpkFQXa_Q5WQ5pkKDhkkIJaHGS8"
+          "current_key": "AIzaSyAx3-Q6SuDaLuybBrhmjin4TeL_iwNL7fs"
         }
       ],
       "services": {
